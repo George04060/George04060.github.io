@@ -4,7 +4,7 @@ A modern, responsive portfolio website showcasing my work as a Full-Stack Develo
 
 ## 🚀 Live Demo
 
-Visit: [Your Portfolio URL](http://localhost:8000)
+Visit: [https://george04060.github.io/george.github.io](https://george04060.github.io/george.github.io)
 
 ## 👨‍💻 About Me
 
@@ -49,8 +49,8 @@ portfolio/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/portfolio.git
-cd portfolio
+git clone https://github.com/George04060/george.github.io.git
+cd george.github.io
 ```
 
 2. Start a local server:

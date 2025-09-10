@@ -664,14 +664,50 @@ section,
   line-height: 0;
 }
 
+.stats .stats-item .stats-number {
+  margin-left: 60px;
+  display: block;
+}
+
 .stats .stats-item .purecounter {
   color: var(--heading-color);
   font-size: 48px;
   line-height: 40px;
-  display: block;
   font-weight: 700;
-  margin-left: 60px;
+  display: inline;
 }
+
+.stats .stats-item .plus-sign {
+  color: var(--heading-color);
+  font-size: 48px;
+  line-height: 40px;
+  font-weight: 700;
+  display: inline;
+}
+
+/* Skills Category Titles */
+.skills-category-title {
+  color: var(--accent-color);
+  font-family: var(--heading-font);
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 20px;
+  position: relative;
+  padding-left: 20px;
+}
+
+.skills-category-title::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 4px;
+  height: 20px;
+  background: var(--accent-color);
+  border-radius: 2px;
+}
+
 
 .stats .stats-item p {
   color: color-mix(in srgb, var(--default-color), transparent 40%);
@@ -1272,4 +1308,193 @@ section,
 --------------------------------------------------------------*/
 .starter-section {
   /* Add your styles here */
+}
+
+/*--------------------------------------------------------------
+# Portfolio Project Images - Consistent Dimensions
+--------------------------------------------------------------*/
+.portfolio-content img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  object-position: center;
+}
+
+/*--------------------------------------------------------------
+# Project Details Page Styling
+--------------------------------------------------------------*/
+.project-details-page .project-img {
+  border-radius: 8px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  margin-bottom: 30px;
+}
+
+.project-info h3 {
+  color: var(--heading-color);
+  margin-bottom: 20px;
+  font-size: 24px;
+}
+
+.project-info h4 {
+  color: var(--heading-color);
+  margin: 30px 0 15px 0;
+  font-size: 20px;
+}
+
+.project-info ul {
+  list-style: none;
+  padding: 0;
+}
+
+.project-info ul li {
+  margin-bottom: 10px;
+  display: flex;
+  align-items: flex-start;
+}
+
+.project-info ul li i {
+  color: var(--accent-color);
+  margin-right: 10px;
+  margin-top: 2px;
+  font-size: 16px;
+}
+
+.project-sidebar {
+  background: var(--light-background);
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+}
+
+.project-sidebar h4 {
+  color: var(--heading-color);
+  margin-bottom: 20px;
+  font-size: 18px;
+}
+
+.project-meta .meta-item {
+  margin-bottom: 15px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.project-meta .meta-item:last-child {
+  border-bottom: none;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.project-meta strong {
+  color: var(--heading-color);
+  display: block;
+  margin-bottom: 5px;
+}
+
+.tech-stack {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 20px;
+}
+
+.tech-tag {
+  background: var(--accent-color);
+  color: white;
+  padding: 4px 12px;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.highlights-list {
+  list-style: none;
+  padding: 0;
+}
+
+.highlights-list li {
+  margin-bottom: 8px;
+  padding-left: 20px;
+  position: relative;
+}
+
+.highlights-list li::before {
+  content: "✓";
+  position: absolute;
+  left: 0;
+  color: var(--accent-color);
+  font-weight: bold;
+}
+
+.project-links {
+  margin-top: 30px;
+}
+
+.project-links .btn {
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.featured-projects {
+  margin: 20px 0;
+}
+
+.project-item {
+  background: var(--light-background);
+  padding: 20px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  border-left: 4px solid var(--accent-color);
+}
+
+.project-item h5 {
+  color: var(--heading-color);
+  margin-bottom: 10px;
+}
+
+.project-item p {
+  margin-bottom: 15px;
+  color: var(--text-color);
+}
+
+.api-integrations {
+  margin: 20px 0;
+}
+
+.integration-item {
+  background: var(--light-background);
+  padding: 20px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  border-left: 4px solid var(--accent-color);
+}
+
+.integration-item h5 {
+  color: var(--heading-color);
+  margin-bottom: 15px;
+}
+
+.integration-item ul {
+  margin: 15px 0;
+  padding-left: 20px;
+}
+
+.integration-item ul li {
+  margin-bottom: 8px;
+  color: var(--text-color);
+}
+
+.integration-item ul li strong {
+  color: var(--heading-color);
+}
+
+/*--------------------------------------------------------------
+# Project Gallery Images - Consistent Dimensions
+--------------------------------------------------------------*/
+.portfolio-details-slider .swiper-slide img {
+  width: 100%;
+  height: 400px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 8px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
 }

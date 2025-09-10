@@ -1,0 +1,33 @@
+{
+  "name": "george-gangos-portfolio",
+  "version": "1.0.0",
+  "description": "Personal portfolio website for George Gangos - Full-Stack Developer",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "start-node": "npx http-server -p 8000",
+    "start-php": "php -S localhost:8000",
+    "dev": "python -m http.server 8000",
+    "build": "echo 'No build process needed for static site'",
+    "deploy": "echo 'Ready for deployment to GitHub Pages, Netlify, or Vercel'"
+  },
+  "keywords": [
+    "portfolio",
+    "full-stack-developer",
+    "react",
+    "nodejs",
+    "php",
+    "flutter",
+    "web-development"
+  ],
+  "author": "George Gangos",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/portfolio.git"
+  },
+  "homepage": "https://yourusername.github.io/portfolio",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}

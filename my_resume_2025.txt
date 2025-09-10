@@ -1,0 +1,143 @@
+================================================================================
+                                GEORGE GANGOS
+                              FULL-STACK DEVELOPER
+================================================================================
+
+CONTACT INFORMATION
+───────────────────────────────────────────────────────────────────────────────
+📍 Location:     Oradea, Romania
+📱 Phone:        +40770191019
+📧 Email:        george.gangos22@gmail.com
+💼 LinkedIn:     My profile here!
+
+PROFESSIONAL SUMMARY
+───────────────────────────────────────────────────────────────────────────────
+Full-stack developer with hands-on experience in web development using React.js,
+Node.js, and PHP. While mainly focused on full-stack development, I've also
+worked on mobile apps using Flutter. Passionate about building scalable,
+user-focused solutions and handling databases efficiently. Reliable, adaptable,
+and results-driven in both team and solo work environments.
+
+TECHNICAL SKILLS
+───────────────────────────────────────────────────────────────────────────────
+Programming Languages:
+  • JavaScript, PHP, HTML/CSS, Java, C#, Dart (Flutter)
+
+Frameworks & Libraries:
+  • React.js, Laravel, Bootstrap
+
+Mobile & Backend Technologies:
+  • Flutter, Firebase, Node.js, REST APIs
+
+Database & Data Handling:
+  • Relational Databases: PostgreSQL, MySQL
+  • Tools: MySQL Workbench, SQL Server Management Studio (SSMS)
+  • Skills: Schema design, efficient querying, basic optimization
+
+Development Tools:
+  • Visual Studio, Git, Firebase Console, VS Code
+PROFESSIONAL EXPERIENCE
+───────────────────────────────────────────────────────────────────────────────
+Software Programmer
+NetIQ Solutions SRL – Romania                                    Jul 2024 – Present
+  • Developing web applications using Node.js and React.js in an on-site team
+    environment
+
+Full Stack Developer
+Romprofix SRL – Oradea, Romania                                  Jan 2023 – Jun 2024
+  • Built and maintained a corporate website using PHP, JavaScript, CSS, and
+    modern frameworks
+
+Flutter Developer (Freelance)
+Abiso – Romania                                                  Sep 2022 – Mar 2023
+  • Created mobile apps using Flutter and Firebase, handling both design and
+    development
+
+Flutter Developer Intern
+Flutech Apps SRL – Remote                                        Jul 2022 – Sep 2022
+  • Learned Flutter & Firebase development
+  • Completed a certified mobile app course and built prototypes
+
+Web Developer Intern
+Allengra – Oradea, Romania                                       Jun 2021 – Jul 2021
+  • Maintained and improved company website, focusing on layout and functionality
+
+Web Developer Intern
+Bizcuit Apps – Romania                                           Aug 2019 – Sep 2019
+  • Developed web pages using PHP, JavaScript, HTML, and CSS as part of a
+    small dev team
+
+EDUCATION
+───────────────────────────────────────────────────────────────────────────────
+Bachelor of Software Engineering
+University of Oradea, Romania                                    2018 – 2022
+  • Mathematics & Informatics
+  • Base coding knowledge for different languages
+  • Electric systems set-up
+
+Full Development App Course
+Udemy Certified Course                                           Jun 2022 – Present
+  • Learning how to build a mobile app from scratch with the right framework
+  • Tips and tricks to specialize in the domain faster
+INTERPERSONAL SKILLS
+───────────────────────────────────────────────────────────────────────────────
+  • Strong communication and active listening
+  • Fast learner with a patient and open-minded attitude
+  • Reliable, dedicated, and team-oriented
+  • Positive and engaging personality
+  • Natural leadership and organizational abilities
+  • Brings humor and energy to the team environment
+
+VOLUNTEERING EXPERIENCE
+───────────────────────────────────────────────────────────────────────────────
+Camp Organizer
+  • Planned and led multiple summer camps for disadvantaged and low-income
+    teenagers
+  • Responsible for program structure, team coordination, and activities focused
+    on education, fun, and emotional support in a safe environment
+
+Teenager Retreat Leader
+  • Leading an ongoing youth retreat project for teenagers, especially those from
+    poor or difficult backgrounds
+  • Activities include learning songs, team games, and life-skill workshops
+    designed to build confidence, character, and connection
+
+VBS Summer School Volunteer
+  • Volunteer at Vacation Bible School programs for children, including gypsy
+    communities
+  • Involved in teaching behavior, creative play, music, and faith-based learning
+    through interactive sessions every summer
+
+HOBBIES & INTERESTS
+───────────────────────────────────────────────────────────────────────────────
+  • Travel & Culture: Passionate about discovering new cultures and lifestyles;
+    actively planning travels with my wife to explore diverse environments
+  • Music & Creativity: Playing guitar for over 10 years; part of a 20-member
+    band where we compose original music and perform cover songs weekly
+  • Gardening & Nature: Enjoy spending time outdoors gardening and working
+    with plants
+  • Woodworking & DIY Projects: Interested in building and crafting with wood,
+    creating both decorative and practical items
+  • Animal Care: Enjoy dog training and outdoor activities with pets, combining
+    exercise and bonding time
+
+LANGUAGES
+───────────────────────────────────────────────────────────────────────────────
+  • Romanian – Native proficiency
+  • English – Advanced
+  • German – Basic conversational
+  • French – Basic understanding
+
+CHARACTER REFERENCES
+───────────────────────────────────────────────────────────────────────────────
+Takacs Valentin Flaviu
+Senior Flutter Developer, TrackGPS by Arobs
+Phone: +40771469106
+
+Takacs Maria-Mirabela
+CEO Flutech Apps SRL
+Phone: +40758870488
+
+Siclovan Carmela
+Senior, Romprofix SRL
+Phone: +40746166552

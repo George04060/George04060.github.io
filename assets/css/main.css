@@ -1304,13 +1304,6 @@ section,
 }
 
 /*--------------------------------------------------------------
-# Starter Section Section
---------------------------------------------------------------*/
-.starter-section {
-  /* Add your styles here */
-}
-
-/*--------------------------------------------------------------
 # Portfolio Project Images - Consistent Dimensions
 --------------------------------------------------------------*/
 .portfolio-content img {
@@ -1497,4 +1490,38 @@ section,
   object-position: center;
   border-radius: 8px;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+/* Responsive adjustments for project gallery images */
+@media (max-width: 1200px) {
+  .portfolio-details-slider .swiper-slide img {
+    height: 350px;
+  }
+}
+
+@media (max-width: 992px) {
+  .portfolio-details-slider .swiper-slide img {
+    height: 300px;
+  }
+}
+
+@media (max-width: 768px) {
+  .portfolio-details-slider .swiper-slide img {
+    height: 250px;
+    border-radius: 6px;
+  }
+}
+
+@media (max-width: 576px) {
+  .portfolio-details-slider .swiper-slide img {
+    height: 200px;
+    border-radius: 4px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  }
+}
+
+@media (max-width: 480px) {
+  .portfolio-details-slider .swiper-slide img {
+    height: 180px;
+  }
 }
